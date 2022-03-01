@@ -1,9 +1,14 @@
 body {
   align-items: center;
-  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   height: 95vh;
   justify-content: center;
   width: 95vw;
+}
+
+h1 {
+  background-color: rgb(72, 77, 62, 0.6);
+  border-radius: 12px;
+  color: #BAD80A;
 }

@@ -1,6 +1,21 @@
-# dio-jogo-da-cobrinha
- Digital Innovation One: Recriar o jogo da cobrinha utilizando HTML5, CSS3 e JavaScript.
+<h1>Desafio de Projeto da Digital Innovation One</h1>
 
- Este projeto foi a última atividade do Bootcamp HTML Web Developer.
+<p>Mais uma atividade encontrada no <strong>Bootcamp HTML Web Developer</strong>.</p>
 
- Em relação ao projeto original, desenvolvido pela professora Gabriela Pinheiro, não adicionei nenhuma modificação relevante.
+<p>Desta vez, o objetivo foi recriar o jogo da cobrinha utilizando HTML5, CSS3 e JavaScript.</p>
+
+<p>Em relação ao projeto original, desenvolvido pela instrutora Gabriela Pinheiro, adicionei mudanças na aparência do jogo (CSS) e uma no JavaScript.</p>
+
+<p>No CSS:</p>
+
+<ol>
+  <li>Adicionei a propriedade <code>background-image</code> ao seletor <code>body</code> e coloquei uma imagem como pano de fundo só para não deixá-lo todo branco.</li>
+  <li>Criei o seletor <code>h1</code>, incluí algumas declarações nele e também adicionei (dentro do HTML) um emoji de cobrinha ao lado do título &#x1F40D.</li>
+  <li>Modifiquei as cores do <em>background</em>, da <em>food</em> e da cobrinha.</li>
+</ol>
+
+<p>Quanto ao JavaScript, apenas acrescentei uma nova mensagem ao final do jogo, orientando o jogador como agir após o fim do game, pois o mesmo não reinicia sozinho após o Game Over! &#x1F609</p>
+
+O projeto concluído ficou assim:
+
+<img src="assets/captura-de-tela.png" alt="Folhas verdes sobre raízes e pedras">
