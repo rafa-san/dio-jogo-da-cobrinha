@@ -1,6 +1,6 @@
-<h1>Desafio de Projeto da Digital Innovation One</h1>
+<h1>Snake Game &#x1F40D</h1>
 
-<p>Mais uma atividade encontrada no <strong>Bootcamp HTML Web Developer</strong>.</p>
+<p>Atividade encontrada no <strong>Bootcamp HTML Web Developer</strong> da <strong>Digital Innovation One</strong>.</p>
 
 <p>Desta vez, o objetivo foi recriar o jogo da cobrinha utilizando HTML5, CSS3 e JavaScript.</p>
 
