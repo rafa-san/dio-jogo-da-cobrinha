@@ -17,7 +17,7 @@ Com este projeto, a proposta da instrutora foi ensinar conceitos básicos e fund
 - Atualização dinâmica do estado do jogo;
 - Habilidade de implementar e testar código JavaScript.
 
-### Principais Modificações
+## 3️⃣ Principais Modificações
 Durante o desenvolvimento, realizei algumas personalizações para deixar o projeto visualmente atraente:
 
 **HTML**
@@ -31,7 +31,7 @@ Durante o desenvolvimento, realizei algumas personalizações para deixar o proj
 **JavaScript**
 - Incluí uma mensagem adicional ao final do jogo (Game Over), com orientações sobre como proceder para reiniciá-lo manualmente, já que ele não reinicia automaticamente. 😁
 
-## 3️⃣ Tecnologias Utilizadas
+## 4️⃣ Tecnologias Utilizadas
 
 ### Linguagens
 <div style="display:flex;">
@@ -43,11 +43,11 @@ Durante o desenvolvimento, realizei algumas personalizações para deixar o proj
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## 4️⃣ Créditos
+## 5️⃣ Créditos
 Agradeço à instrutora Gabriela Pinheiro e à equipe da DIO por disponibilizarem este conteúdo tão enriquecedor!
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
-## 5️⃣ Licença
+## 6️⃣ Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
