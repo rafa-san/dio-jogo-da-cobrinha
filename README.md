@@ -2,15 +2,15 @@
 
 # Snake Game: O Jogo da Cobrinha 🐍
 
-## 1️⃣ Apresentação
+## 1️⃣ Objetivo
+Desenvolver o clássico jogo da cobrinha (Snake Game) utilizando HTML, CSS e JavaScript.
+
+## 2️⃣ Descrição
 Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
 A atividade foi conduzida pela instrutora **Gabriela Pinheiro**.
 
-## 2️⃣ Objetivo
-Desenvolver o clássico jogo da cobrinha (Snake Game) utilizando HTML, CSS e JavaScript.
-
-Com este projeto, a proposta da instrutora foi ensinar conceitos básicos e fundamentais no desenvolvimento de jogos, como:
+Uma das propostas da instrutora foi ensinar conceitos básicos e fundamentais no desenvolvimento de jogos, como:
 
 - Controle de movimentos;
 - Detecção de colisões;
