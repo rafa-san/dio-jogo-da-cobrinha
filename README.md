@@ -1,12 +1,12 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Snake Game: O Jogo da Cobrinha 🐍
+# HTML Web Developer | #2 Snake Game: O Jogo da Cobrinha 🐍
 
 ## 1️⃣ Objetivo
 Desenvolver o clássico jogo da cobrinha (Snake Game) utilizando HTML, CSS e JavaScript.
 
 ## 2️⃣ Descrição
-Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
+Este projeto foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
 A atividade foi conduzida pela instrutora **Gabriela Pinheiro**.
 
@@ -44,7 +44,7 @@ Durante o desenvolvimento, realizei algumas personalizações para deixar o proj
 </div>
 
 ## 5️⃣ Créditos
-Agradeço à instrutora Gabriela Pinheiro e à equipe da DIO por disponibilizarem este conteúdo tão enriquecedor!
+Agradeço à instrutora **Gabriela Pinheiro** e à equipe da **DIO** pelo excelente conteúdo, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
